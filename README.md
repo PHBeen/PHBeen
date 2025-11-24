@@ -8,8 +8,9 @@
 **Yonsei University – Biomedical Engineering (B.S.)**  
 *2019 — 2023*
 
+---
 
-
+# 🧬 Who I am?
 ## 1. 멀티레벨 AI 엔지니어(Research → Data → Service)
 - **AI Research**: [[학부연구](https://hyo6490.tistory.com/5)]  
   ECG · 임상 표현형 데이터를 활용한 **우울증 예측 모델/XAI 연구** 경험
