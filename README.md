@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 HI!  
+데이터로 이해하고, 기술로 증명하는 AI 엔지니지어 **PHBeen**입니다.  
+의료 데이터에서 시작해, 서비스 AI까지 직접 만들며 성장하고 있어요.
 
-<!--
-**PHBeen/PHBeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education  
+**Yonsei University – Biomedical Engineering (B.S.)**  
+*2019 — 2023*
+
+
+
+## 1. 멀티레벨 AI 엔지니어(Research → Data → Service)
+- **AI Research**: [[학부연구](https://hyo6490.tistory.com/5)]  
+  ECG · 임상 표현형 데이터를 활용한 **우울증 예측 모델/XAI 연구** 경험
+- **Data Engineering**:  
+  XML(ECG), EMR tabular, DICOM, PLT(3D heart) 등 **의료 데이터 전처리·표준화**
+- **AI Service Engineering**:  
+  서버리스 · CPU 환경에서 **경량 모델 서빙**, 멀티모달 기능 기획 및 개발
+
+> 연구–데이터–서비스, “실험실에서 제품까지” 전 과정을 경험했습니다.
+
+
+## 2. 실험하면 자연스럽게 패턴을 찾고 구조화하는 스타일
+- 단순히 결과를 보는 게 아니라, **패턴이 왜 나왔는지 이유부터 먼저 생각하는 편입니다.**
+- Gradient flow, feature map, loss curve 같은 **모델 내부 구조도 직접 확인**하면서 이해하려고 합니다.
+- 실험 결과를 개념이나 흐름으로 다시 정리해 **내 방식대로 구조화**하는 습관이 있습니다.
+- [패턴을 통해 오버피팅을 제어한 글 보러가기](https://hyo6490.tistory.com/3)
+
+> 저에게 실험은 숫자를 맞추는 게 아니라,  
+> **모델이 어떻게 생각하는지 읽어내는 과정에 가깝습니다.**
+
+
+## 3. 복잡한 문제(기술·상황·감정)를 빠르게 정리하는 방식
+- 복잡한 내용을 보면 **흐름·블록 단위로 먼저 정리**해서 전체 그림을 파악하는 편입니다.
+- 기술적인 내용뿐 아니라, 상황이나 요구사항도 **패턴으로 묶어서 설명**하려고 합니다.
+- 그래서 혼란스러운 문제일수록 **구조가 먼저 머릿속에 잡히는 타입**입니다.
+
+> 소통을 잘한다기보다는,  
+> **문제를 구조적으로 정리해서 명확하게 전달하려고 합니다.**
+
+
+
