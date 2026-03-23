@@ -23,7 +23,7 @@
 ### 2. Model-Centric Problem Solver
 * 단순히 성능 숫자를 높이는 것이 아니라, **'모델이 왜 그렇게 판단했는가'**를 추적합니다.
 * Gradient flow, Feature map 분석을 통해 모델 내부 구조를 파악하고, 실험 결과를 자신만의 로직으로 구조화하여 정리합니다.
-* [**DistilBERT 내부 구조 분석 및 실험 리포트 보러가기**](링크)
+* [**DistilBERT 내부 구조 분석 및 실험 리포트 보러가기**](https://hyo6490.tistory.com/7)
 
 ### 3. Structural Communicator
 * **Needs First:** 현장의 요구사항을 기술적 언어로 재정의하여 핵심 문제를 도출합니다.
